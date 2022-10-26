@@ -15160,10 +15160,10 @@ worker-rpc@^0.1.0:
   dependencies:
     microevent.ts "~0.1.1"
 
-worldcupchain_swap_sdk@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/worldcupchain_swap_sdk/-/worldcupchain_swap_sdk-1.0.0.tgz#a05ea211216bffa44b8e3bbd2f86f9a5552bfb97"
-  integrity sha512-ZYlGR27rM1pDsWYuA8iC/GWIhXhvDcXPvn22zmfY11s8m4qCzt1d2FXr86Tm+ge8SeNkoW+iBAxm86VOeHRJ/g==
+worldcupchain_swap_sdk@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/worldcupchain_swap_sdk/-/worldcupchain_swap_sdk-1.0.2.tgz#b7bb7305108a1af3fbd9791f1615a1edea199a82"
+  integrity sha512-Sy6/rBqxr0NwML1qvK8Dl41gdKmSVpZcQU49QCQGccSzf9ZzusrN5/9/VYPhlNmrqrMD7rhYPMVeXLvv8AbGmw==
   dependencies:
     "@uniswap/v2-core" "^1.0.0"
     big.js "^5.2.2"
